@@ -1,0 +1,156 @@
+/*intitulé du poste*/
+
+body {
+  background: rgb(24, 24, 24);
+}
+
+article {
+  color: whitesmoke;
+}
+.ttl {
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 25px;
+  letter-spacing: 0.08em;
+  color:whitesmoke;
+  text-align: center;
+}
+
+/*texte de presentation*/
+.art {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+.nespresso {
+  background-image: url(/img/coffee.jpg);
+  background-position: center;
+  background-size: 140%;
+  background-repeat: no-repeat;
+  color: whitesmoke;
+}
+
+.easyjet {
+background-image: url(/img/easy.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: 120%;
+color: whitesmoke;
+}
+
+.amazon {
+  background-image: url(/img/amazon.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 120%;
+  color: whitesmoke;
+}
+
+/*background du CTA easyjet*/
+.or {
+  background-color: rgb(255, 164, 28);
+}
+
+
+
+/*
+body {
+  
+  
+}
+video {
+  filter: saturate(50%);
+  position: relative ;
+
+}
+
+
+.fontchange{
+  position: absolute;
+  width: 584px;
+  height: 261px;
+  left: 30px;
+  top: 440px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 88px;
+  letter-spacing: 0.08em;
+
+  color: #F7F7F7;
+}
+
+.fontchange1 {
+  position: absolute;
+  width: 584px;
+  height: 261px;
+  left: 270px;
+  top: 477px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 56px;
+
+  color: #F7F7F7;
+}
+
+.fontchange2 {
+  position: absolute;
+  width: 584px;
+  height: 131px;
+  left: 30px;
+  top: 571px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 88px;
+  letter-spacing: 0.08em;
+  
+  color: #F7F7F7;
+}
+
+.fontchange3 {
+  position: absolute;
+  width: 584px;
+  height: 131px;
+  left: 470px;
+  top: 608px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 56px;
+
+  color: #F7F7F7;
+}
+
+h1 {
+  position: absolute;
+  width: 357px;
+  height: 226px;
+  left: 1190px;
+  top: 120px;
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 152px;
+  color: #F7F7F7;
+  opacity: 0.08;
+  transform: rotate(-89.45deg);
+}
+
+
+
+*/
